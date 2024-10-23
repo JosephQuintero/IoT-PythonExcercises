@@ -1,0 +1,3 @@
+nombre,apellido1,apellido2,cargo,empresa,calle,numeroExt,numeroInt,colonia,municipio,estado,codigoPostal,telefono,correoElectronico,fechaNacimiento
+Joseph,Quintero,Carrasco,Gerente,Compañía Security,Calle Nicolas,638,10,Social,Guadalajara,Jalisco,12345,3368094224,jos69.2131@gmail.com,1985-01-15
+Diego,Rocha,Escamilla,Programador,Compañía Grid,Avenida Siempre Viva,45,2,Zona Norte,Zapopan,Jalisco,67890,5559876543,rocha.0954@gmail.com,1978-10-12

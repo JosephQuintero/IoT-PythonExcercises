@@ -1,0 +1,38 @@
+───────────────────────────────────────────────────────
+                         OFICIO
+───────────────────────────────────────────────────────
+
+Systems Security 23/10/2024
+
+Estimado Jorge Camacho,
+
+Me permito enviar esta carta para postularme formalmente 
+al puesto de interés en su empresa. 
+
+Soy {nombre} {apellido1} {apellido2}, y actualmente me 
+desempeño como {cargo} en la empresa {empresa}. 
+Considero que mi experiencia y habilidades encajan perfectamente 
+con el perfil que están buscando.
+
+En mi trayectoria profesional, he tenido la oportunidad de trabajar 
+en diversos proyectos en {empresa}, donde adquirí competencias que 
+considero valiosas para el cargo al que aspiro. Resido en {calle} 
+{numeroExt}, Int. {numeroInt}, colonia {colonia}, en el municipio 
+de {municipio}, estado de {estado}, y mi código postal es {codigoPostal}. 
+
+Adjunto mis datos de contacto, para cualquier información adicional 
+que requieran:
+- Teléfono: {telefono}
+- Correo electrónico: {correoElectronico}
+
+Mi fecha de nacimiento es {fechaNacimiento}, lo que me permite contar 
+con {edad} años de experiencia y una visión moderna y actualizada 
+en mi campo.
+
+Agradezco de antemano la oportunidad de ser considerado/a y quedo a 
+disposición para una entrevista o proporcionar información adicional 
+que necesiten.
+
+Atentamente,{nombre} {apellido1} {apellido2}
+
+Firma electrónica.
